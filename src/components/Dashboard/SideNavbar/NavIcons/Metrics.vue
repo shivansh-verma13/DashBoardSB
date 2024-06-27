@@ -1,0 +1,52 @@
+<template>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 45.691 45.691"
+    class="w-8 h-8"
+  >
+    <g id="metrics" transform="translate(1 1)">
+      <circle
+        id="Ellipse_1"
+        data-name="Ellipse 1"
+        cx="8"
+        cy="8"
+        r="8"
+        transform="translate(0.5 27.191)"
+        fill="none"
+        stroke="#b5bad0"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="3"
+      />
+      <path
+        id="Path_13"
+        data-name="Path 13"
+        d="M2.5,12.143V.5A34.929,34.929,0,0,1,37.429,35.429H25.786"
+        transform="translate(5.762)"
+        fill="none"
+        stroke="#b5bad0"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="3"
+      />
+      <line
+        id="Line_6"
+        data-name="Line 6"
+        y1="10.036"
+        x2="10.036"
+        transform="translate(14.75 18.905)"
+        fill="none"
+        stroke="#b5bad0"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="3"
+      />
+    </g>
+  </svg>
+</template>
+
+<script>
+export default {
+  name: "Metrics",
+};
+</script>
